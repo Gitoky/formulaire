@@ -1,2 +1,2 @@
 # formulaire
-l'index.html dont l'html, css et js
+index.html dont il y a l'html, css et js
